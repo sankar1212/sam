@@ -1,0 +1,30 @@
+2022-12-14 11:30:17,309 INFO  [Log] Application opened 
+2022-12-14 11:30:37,075 INFO  [Log] login completed 
+2022-12-14 11:30:37,404 INFO  [Log] logout completed 
+2022-12-14 11:30:37,990 INFO  [Log] browser closed 
+2022-12-14 11:32:32,572 INFO  [Log] Application opened 
+2022-12-14 11:32:44,206 INFO  [Log] login completed 
+2022-12-14 11:32:44,423 INFO  [Log] logout completed 
+2022-12-14 11:32:50,617 INFO  [Log] browser closed 
+2022-12-14 11:32:58,305 INFO  [Log] Application opened 
+2022-12-14 11:33:10,218 INFO  [Log] login completed 
+2022-12-14 11:33:10,963 INFO  [Log] entered into frame 
+2022-12-14 11:33:33,062 INFO  [Log] added emp 
+2022-12-14 11:33:33,118 INFO  [Log] exited frame 
+2022-12-14 11:33:33,599 INFO  [Log] logout completed 
+2022-12-14 11:33:56,596 INFO  [Log] browser closed 
+2022-12-14 12:31:39,524 INFO  [Log] Application opened 
+2022-12-14 12:31:45,576 INFO  [Log] login completed 
+2022-12-14 12:31:45,693 INFO  [Log] logout completed 
+2022-12-14 12:31:46,053 INFO  [Log] browser closed 
+2022-12-14 12:31:50,022 INFO  [Log] Application opened 
+2022-12-14 12:31:56,241 INFO  [Log] login completed 
+2022-12-14 12:31:56,336 INFO  [Log] entered into frame 
+2022-12-14 12:32:01,639 INFO  [Log] added emp 
+2022-12-14 12:32:01,651 INFO  [Log] exited frame 
+2022-12-14 12:32:01,777 INFO  [Log] logout completed 
+2022-12-14 12:32:02,167 INFO  [Log] browser closed 
+2022-12-14 18:00:57,080 INFO  [Log] Application opened 
+2022-12-14 18:01:03,551 INFO  [Log] login completed 
+2022-12-14 18:01:03,763 INFO  [Log] logout completed 
+2022-12-14 18:01:04,972 INFO  [Log] browser closed 
